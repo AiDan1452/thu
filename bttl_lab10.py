@@ -118,3 +118,6 @@ print("\n LNR: ")
 LNR(A)
 print("\n LNR: ")
 LRN(A)
+
+
+#abđmvsjjjs
