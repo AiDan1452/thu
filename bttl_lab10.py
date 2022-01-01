@@ -120,4 +120,4 @@ print("\n LNR: ")
 LRN(A)
 
 
-#abđmvsjjjs
+#abđmvsjjjs msnhsfbbncnc
